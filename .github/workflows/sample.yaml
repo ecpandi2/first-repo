@@ -2,8 +2,6 @@ name: Shell Commands
 
 on: [push_request]
  #[push]
- 
-
 
 jobs:
   run-shell-command:
