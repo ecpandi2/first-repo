@@ -1,8 +1,8 @@
 name: Shell Commands
 
-on: 
+on: [push_request]
  #[push]
- push_request:
+ 
 
 
 jobs:
